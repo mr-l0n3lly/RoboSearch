@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RoboSearch/static/css/main.41f3f891.chunk.css",
+    "main.js": "/RoboSearch/static/js/main.d5fca276.chunk.js",
+    "main.js.map": "/RoboSearch/static/js/main.d5fca276.chunk.js.map",
+    "runtime-main.js": "/RoboSearch/static/js/runtime-main.ebaadf9a.js",
+    "runtime-main.js.map": "/RoboSearch/static/js/runtime-main.ebaadf9a.js.map",
+    "static/js/2.4b50ecbc.chunk.js": "/RoboSearch/static/js/2.4b50ecbc.chunk.js",
+    "static/js/2.4b50ecbc.chunk.js.map": "/RoboSearch/static/js/2.4b50ecbc.chunk.js.map",
+    "static/js/3.9a95836f.chunk.js": "/RoboSearch/static/js/3.9a95836f.chunk.js",
+    "static/js/3.9a95836f.chunk.js.map": "/RoboSearch/static/js/3.9a95836f.chunk.js.map",
+    "index.html": "/RoboSearch/index.html",
+    "static/css/main.41f3f891.chunk.css.map": "/RoboSearch/static/css/main.41f3f891.chunk.css.map",
+    "static/js/2.4b50ecbc.chunk.js.LICENSE.txt": "/RoboSearch/static/js/2.4b50ecbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebaadf9a.js",
+    "static/js/2.4b50ecbc.chunk.js",
+    "static/css/main.41f3f891.chunk.css",
+    "static/js/main.d5fca276.chunk.js"
+  ]
+}
